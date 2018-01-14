@@ -1,0 +1,70 @@
+@font-face{
+    		font-family:"HelveticaNeueW01-45Ligh";
+    		src:url("https://ak.imgag.com/agbeta/fonts/HelveticaN/ae1656aa-5f8f-4905-aed0-93e667bd6e4a.eot?iefix") format("embedded-opentype");
+    	}
+    	@font-face{
+
+           font-family:"HelveticaNeueW01-45Ligh";
+           src:url("https://ak.imgag.com/agbeta/fonts/HelveticaN/ae1656aa-5f8f-4905-aed0-93e667bd6e4a.eot?iefix");
+           src:url("https://ak.imgag.com/agbeta/fonts/HelveticaN/688ab72b-4deb-4e15-a088-89166978d469.ttf") format("truetype"),url("https://ak.imgag.com/agbeta/fonts/HelveticaN/7816f72f-f47e-4715-8cd7-960e3723846a.svg#7816f72f-f47e-4715-8cd7-960e3723846a") format("svg");
+       }@font-face{
+           font-family:"ITCFranklinGothicW01-Bk 812662";
+           src:url("https://ak.imgag.com/agbeta/fonts/FranklinGothic/bddaa752-b0b5-47d2-95c5-c577f9447c57.eot?#iefix") format("embedded-opentype");
+       }@font-face{
+           font-family:"ITCFranklinGothicW01-Bk 812662";
+           src:url("https://ak.imgag.com/agbeta/fonts/FranklinGothic/bddaa752-b0b5-47d2-95c5-c577f9447c57.eot?#iefix");
+           src:url("https://ak.imgag.com/agbeta/fonts/FranklinGothic/e81b60a7-faa6-43b1-9a18-ec1f4a7941d5.ttf") format("truetype"),url("https://ak.imgag.com/agbeta/fonts/FranklinGothic/14981380-0a21-4949-924f-2b19d122f185.svg#14981380-0a21-4949-924f-2b19d122f185") format("svg");
+       }@font-face{
+           font-family:"ITCFranklinGothicW01-Dm 812668";
+           src:url("https://ak.imgag.com/agbeta/fonts/FranklinGothic/498d8f5c-6dfe-4a07-9fdf-321bcc11909c.eot?#iefix") format("embedded-opentype");
+       }@font-face{
+           font-family:"ITCFranklinGothicW01-Dm 812668";
+           src:url("https://ak.imgag.com/agbeta/fonts/FranklinGothic/498d8f5c-6dfe-4a07-9fdf-321bcc11909c.eot?#iefix");
+           src:url("https://ak.imgag.com/agbeta/fonts/FranklinGothic/498d8f5c-6dfe-4a07-9fdf-321bcc11909c.eot?#iefix") format("eot"),url("https://ak.imgag.com/agbeta/fonts/FranklinGothic/6adc2e3a-d0c4-4c48-ba68-91b4107515d7.ttf") format("truetype"),url("https://ak.imgag.com/agbeta/fonts/FranklinGothic/426ce955-d5bd-4a77-b077-402088f77e65.svg#426ce955-d5bd-4a77-b077-402088f77e65") format("svg");
+       }@font-face{
+           font-family:"ITCFranklinGothicW01-Bk 812650";
+           src: url("https://ak.imgag.com/agbeta/fonts/FranklinGothic/40c25844-afae-464c-b2e8-e22dfe775019.eot?#iefix") format("embedded-opentype");
+       }@font-face{
+
+           font-family:"ITCFranklinGothicW01-Bk 812650";
+           src:url("https://ak.imgag.com/agbeta/fonts/FranklinGothic/40c25844-afae-464c-b2e8-e22dfe775019.eot?#iefix");
+           src:url("https://ak.imgag.com/agbeta/fonts/FranklinGothic/b8e027ee-2673-4c27-94d0-54595a427ab2.ttf") format("truetype"),url("https://ak.imgag.com/agbeta/fonts/FranklinGothic/d2919fbf-50f9-4403-b41a-12044cdefede.svg#d2919fbf-50f9-4403-b41a-12044cdefede") format("svg");
+       }@font-face {
+           font-family: 'MurbiaRegular';
+           src: url('https://ak.imgag.com/agbeta/fonts/Murbia/murbia-webfont.eot');
+       }@font-face {
+           font-family: 'MurbiaRegular';
+           src: url('https://ak.imgag.com/agbeta/fonts/Murbia/murbia-webfont.ttf') format('truetype'),
+           url('https://ak.imgag.com/agbeta/fonts/Murbia/murbia-webfont.svg#webfont') format('svg');
+           font-weight: normal;
+           font-style: normal;
+       }@font-face {
+
+           font-family: 'OpusRoman';
+
+           src: url('https://ak.imgag.com/agbeta/fonts/OpusRoman/Opus-Regular-webfont.eot');
+       }@font-face {
+           font-family: 'OpusRoman';
+           src: url('https://ak.imgag.com/agbeta/fonts/OpusRoman/Opus-Regular-webfont.ttf') format('truetype'),
+           url('https://ak.imgag.com/agbeta/fonts/OpusRoman/Opus-Regular-webfont.svg#webfontNpaErWYl') format('svg');
+           font-weight: normal;
+           font-style: normal;
+       }@font-face {
+           font-family: 'AGIHand';
+           src: url('https://ak.imgag.com/agbeta/fonts/AGIHand/agihand-webfont.eot');
+       }@font-face {
+           font-family: 'AGIHand';
+           src: url('https://ak.imgag.com/agbeta/fonts/AGIHand/agihand-webfont.ttf') format('truetype'),
+           url('https://ak.imgag.com/agbeta/fonts/AGIHand/agihand-webfont.svg#webfont') format('svg');
+           font-weight: normal;
+           font-style: normal;
+       }@font-face {
+           font-family: 'MuseoSans500Regular';
+           src: url('https://ak.imgag.com/agbeta/fonts/museosans-500/museosans-500-webfont.eot');
+           src: url('https://ak.imgag.com/agbeta/fonts/museosans-500/museosans-500-webfont.eot?#iefix') format('embedded-opentype'),
+           url('https://ak.imgag.com/agbeta/fonts/museosans-500/museosans-500-webfont.woff') format('woff'),
+           url('https://ak.imgag.com/agbeta/fonts/museosans-500/museosans-500-webfont.ttf') format('truetype'),
+           url('https://ak.imgag.com/agbeta/fonts/museosans-500/museosans-500-webfont.svg#MuseoSans500Regular') format('svg');
+           font-weight: normal;
+           font-style: normal;
+       }
